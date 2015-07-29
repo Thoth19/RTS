@@ -1,0 +1,49 @@
+game idea
+troops
+melee, ranged, cavalry
+with levels: 
+human, mythic, heroic, god
+human
+melee has 1 damage and 2 hp
+ranged has 1 damage and 1 hp
+cavalry has 2 damage and 1 hp (+1 damage turn one)
+
+mythic
+double, but 3x the cost
+
+heroic,
+same power as mythic
+bonus damage against mythic
+4x cost
+
+God
+10x stat, 15x cost
+
+Battlefield
+(not displayed?)
+two tiles separate first lines,
+and go in order of melee, ranged
+
+cavalry inflict damage to archers. if none, melee, if none cav
+melee inflict damage to melee, cav, archers, move
+ranged inflcit damage to cav, melee, archers (possibly make them weak against cav)
+
+battlefield size is min 50, army size
+
+
+War is costly:
+If you win:
+you get 1/2 the value of all dead units
+If you lose:
+you get 1/4 the value of your dead units
+
+Some sort of farming mechanism?
+farms => food => human +
+temples => favor => mythic +
+mines => gold => heroic +
+altar => sacerific =>gods (kill villagers for god summon)
+farm/temple/mine can support workers apiece, task workers to generate resources per turn
+all resource buildings require food except altar which requires all three
+can build human, mythic, heroic, god workers which are 1x,2x,3x,5x
+
+defending a castle, theres a wall that serves as an extra melee unit with priority
